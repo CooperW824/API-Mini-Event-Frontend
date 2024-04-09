@@ -6,3 +6,7 @@ This repositiory is made as a template our mini-event participants can use as a 
 
 [API Docs](https://docs.todo.hackrpi.com)
 
+The empty directory contains the project with none of the
+API call functions filled in.
+
+The filled directory contains the project with all of the API functions filled in. Feel free to modify and improve on this project. Hope you enjoyed the mini event.
